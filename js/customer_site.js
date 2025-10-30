@@ -44,11 +44,6 @@ const CUSTOMER_SITES = {
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
             "detail": "http://caiji.dyttzyapi.com"
         },
-        "api_31": {
-            "name": "TV-百度云资源",
-            "api": "https://api.apibdzy.com/api.php/provide/vod",
-            "detail": "https://api.apibdzy.com"
-        },
         "api_45": {
             "name": "TV-非凡资源",
             "api": "https://cj.ffzyapi.com/api.php/provide/vod",
