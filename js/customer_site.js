@@ -33,11 +33,6 @@ const CUSTOMER_SITES = {
             "api": "https://api.wujinapi.cc/api.php/provide/vod",
             "detail": ""
         },
-        "api_9": {
-            "name": "TV-丫丫点播",
-            "api": "https://cj.yayazy.net/api.php/provide/vod",
-            "detail": "https://cj.yayazy.net"
-        },
         "api_10": {
             "name": "TV-光速资源",
             "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -93,25 +88,10 @@ const CUSTOMER_SITES = {
             "api": "https://api.wujinapi.net/api.php/provide/vod",
             "detail": ""
         },
-        "api_21": {
-            "name": "TV-旺旺短剧",
-            "api": "https://wwzy.tv/api.php/provide/vod",
-            "detail": "https://wwzy.tv"
-        },
-        "api_22": {
-            "name": "TV-旺旺资源",
-            "api": "https://api.wwzy.tv/api.php/provide/vod",
-            "detail": "https://api.wwzy.tv"
-        },
         "api_23": {
             "name": "TV-暴风资源",
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "detail": ""
-        },
-        "api_24": {
-            "name": "TV-最大点播",
-            "api": "http://zuidazy.me/api.php/provide/vod",
-            "detail": "http://zuidazy.me"
         },
         "api_25": {
             "name": "TV-最大资源",
@@ -122,16 +102,6 @@ const CUSTOMER_SITES = {
             "name": "TV-樱花资源",
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
             "detail": ""
-        },
-        "api_27": {
-            "name": "TV-步步高资源",
-            "api": "https://api.yparse.com/api/json",
-            "detail": ""
-        },
-        "api_28": {
-            "name": "TV-牛牛点播",
-            "api": "https://api.niuniuzy.me/api.php/provide/vod",
-            "detail": "https://api.niuniuzy.me"
         },
         "api_29": {
             "name": "TV-电影天堂资源",
@@ -158,11 +128,6 @@ const CUSTOMER_SITES = {
             "api": "https://www.hongniuzy2.com/api.php/provide/vod",
             "detail": "https://www.hongniuzy2.com"
         },
-        "api_35": {
-            "name": "TV-茅台资源",
-            "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-            "detail": "https://caiji.maotaizy.cc"
-        },
         "api_37": {
             "name": "TV-豆瓣资源",
             "api": "https://caiji.dbzy.tv/api.php/provide/vod",
@@ -173,18 +138,8 @@ const CUSTOMER_SITES = {
             "api": "https://dbzy.tv/api.php/provide/vod",
             "detail": "https://dbzy.tv"
         },
-        "api_39": {
-            "name": "TV-豪华资源",
-            "api": "https://hhzyapi.com/api.php/provide/vod",
-            "detail": "https://hhzyapi.com"
-        },
-        "api_40": {
-            "name": "TV-速博资源",
-            "api": "https://subocaiji.com/api.php/provide/vod",
-            "detail": ""
-        },
         "api_41": {
-            "name": "TV-量子资源",
+            "name":"TV-量子资源",
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "detail": ""
         },
@@ -260,21 +215,9 @@ const CUSTOMER_SITES = {
             "api": "https://gayapi.com/api.php/provide/vod",
             "name": "快播资源网站"
         },
-        "xingbaziyuan": {
-            "api": "https://xingba111.com/api.php/provide/vod",
-            "name": "杏吧资源"
-        },
         "liangziziyuan": {
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "name": "量子资源"
-        },
-        "senlinziyuan": {
-            "api": "https://slapibf.com/api.php/provide/vod",
-            "name": "森林资源"
-        },
-        "aiduanjucc": {
-            "api": "https://www.aiduanju.cc/",
-            "name": "爱短剧.cc"
         },
         "huaweiba": {
             "api": "https://huawei8.live/api.php/provide/vod",
@@ -284,25 +227,13 @@ const CUSTOMER_SITES = {
             "api": "https://taopianapi.com/cjapi/sda/vod",
             "name": "淘片资源"
         },
-        "hongniuziyuan": {
-            "api": "https://www.hongniuzy3.com/api.php/provide/vod",
-            "name": "红牛资源"
-        },
         "suonisandian": {
             "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
             "name": "索尼-闪电资源"
         },
-        "yayaziyuan": {
-            "api": "https://cj.yayazy.net/api.php/provide/vod",
-            "name": "鸭鸭资源"
-        },
         "jinyingziyuan": {
             "api": "https://jyzyapi.com/provide/vod",
             "name": "金鹰资源采集网"
-        },
-        "fengchao": {
-            "api": "https://api.fczy888.me/api.php/provide/vod",
-            "name": "蜂巢片库"
         },
         "jinmaziyuan2": {
             "api": "https://api.jmzy.com/api.php/provide/vod",
@@ -312,41 +243,17 @@ const CUSTOMER_SITES = {
             "api": "https://dadiapi.com/api.php/provide/vod",
             "name": "大地资源网络"
         },
-        "huangseziy": {
-            "api": "https://hsckzy888.com/api.php/provide/vod",
-            "name": "黄色资源啊啊"
-        },
         "xiaojiziy": {
             "api": "https://api.xiaojizy.live/provide/vod",
             "name": "小鸡资源"
-        },
-        "kauicheziyuan": {
-            "api": "https://caiji.kuaichezy.org/api.php/provide",
-            "name": "快车资源阿"
         },
         "xinlangaa": {
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
             "name": "新浪资源阿"
         },
-        "lajiaoziyu": {
-            "api": "https://apilj.com/api.php/provide",
-            "name": "辣椒资源黄黄"
-        },
-        "youzhidianying": {
-            "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
-            "name": "优质资源库1080zyk6.com高清"
-        },
         "iqiyi": {
             "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
             "name": "iqiyi资源"
-        },
-        "xibaocaiji": {
-            "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-            "name": "细胞采集黄色"
-        },
-        "qiqiqiqi": {
-            "api": "https://www.qiqidys.com/api.php/provide/vod/",
-            "name": "七七影视"
         },
         "yingshigongchang": {
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
