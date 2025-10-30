@@ -1,9 +1,4 @@
 const CUSTOMER_SITES = {
-        "api_3": {
-            "name": "TV-360资源",
-            "api": "https://360zy.com/api.php/provide/vod",
-            "detail": "https://360zy.com"
-        },
         "api_5": {
             "name": "TV-U酷资源",
             "api": "https://api.ukuapi.com/api.php/provide/vod",
@@ -13,11 +8,6 @@ const CUSTOMER_SITES = {
             "name": "TV-U酷资源",
             "api": "https://api.ukuapi88.com/api.php/provide/vod",
             "detail": "https://api.ukuapi88.com"
-        },
-        "api_7": {
-            "name": "TV-ikun资源",
-            "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "detail": "https://ikunzyapi.com"
         },
         "api_8": {
             "name": "TV-wujinapi无尽",
@@ -63,11 +53,6 @@ const CUSTOMER_SITES = {
             "name": "TV-非凡资源",
             "api": "https://cj.ffzyapi.com/api.php/provide/vod",
             "detail": "https://cj.ffzyapi.com"
-        },
-        "api_46": {
-            "name": "TV-飘零资源",
-            "api": "https://p2100.net/api.php/provide/vod",
-            "detail": "https://p2100.net"
         },
         "ffzynew": {
             "api": "https://api.ffzyapi.com/api.php/provide/vod",
