@@ -1,14 +1,4 @@
 const CUSTOMER_SITES = {
-        "api_5": {
-            "name": "TV-U酷资源",
-            "api": "https://api.ukuapi.com/api.php/provide/vod",
-            "detail": "https://api.ukuapi.com"
-        },
-        "api_6": {
-            "name": "TV-U酷资源",
-            "api": "https://api.ukuapi88.com/api.php/provide/vod",
-            "detail": "https://api.ukuapi88.com"
-        },
         "api_8": {
             "name": "TV-wujinapi无尽",
             "api": "https://api.wujinapi.cc/api.php/provide/vod",
