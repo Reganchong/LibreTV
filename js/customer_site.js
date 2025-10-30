@@ -1,17 +1,8 @@
 const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
-    },
         "api_3": {
             "name": "TV-360资源",
             "api": "https://360zy.com/api.php/provide/vod",
             "detail": "https://360zy.com"
-        },
-        "api_4": {
-            "name": "TV-CK资源",
-            "api": "https://ckzy.me/api.php/provide/vod",
-            "detail": "https://ckzy.me"
         },
         "api_5": {
             "name": "TV-U酷资源",
@@ -57,11 +48,6 @@ const CUSTOMER_SITES = {
             "name": "TV-暴风资源",
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "detail": ""
-        },
-        "api_25": {
-            "name": "TV-最大资源",
-            "api": "https://api.zuidapi.com/api.php/provide/vod",
-            "detail": "https://api.zuidapi.com"
         },
         "api_29": {
             "name": "TV-电影天堂资源",
@@ -113,38 +99,15 @@ const CUSTOMER_SITES = {
             "name": "极速资源",
             "detail": "https://jszyapi.com"
         },
-        "kauiboziyuan": {
-            "api": "https://gayapi.com/api.php/provide/vod",
-            "name": "快播资源网站"
-        },
         "liangziziyuan": {
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "name": "量子资源"
         },
-        "huaweiba": {
-            "api": "https://huawei8.live/api.php/provide/vod",
-            "name": "华为吧资源"
-        },
-        "suonisandian": {
-            "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
-            "name": "索尼-闪电资源"
-        },
-        "xinlangaa": {
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-            "name": "新浪资源阿"
-        },
+
         "iqiyi": {
             "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
             "name": "iqiyi资源"
         },
-        "yingshigongchang": {
-            "api": "https://cj.lziapi.com/api.php/provide/vod/",
-            "name": "影视工厂"
-        },
-        "fantuanyingshi": {
-            "api": "https://www.fantuan.tv/api.php/provide/vod/",
-            "name": "饭团影视"
-        }
 };
 
 // 调用全局方法合并
