@@ -33,45 +33,10 @@ const CUSTOMER_SITES = {
             "api": "https://api.wujinapi.cc/api.php/provide/vod",
             "detail": ""
         },
-        "api_10": {
-            "name": "TV-光速资源",
-            "api": "https://api.guangsuapi.com/api.php/provide/vod",
-            "detail": "https://api.guangsuapi.com"
-        },
-        "api_11": {
-            "name": "TV-卧龙点播",
-            "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-            "detail": "https://collect.wolongzyw.com"
-        },
-        "api_12": {
-            "name": "TV-卧龙资源",
-            "api": "https://collect.wolongzy.cc/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_13": {
-            "name": "TV-卧龙资源",
-            "api": "https://wolongzyw.com/api.php/provide/vod",
-            "detail": "https://wolongzyw.com"
-        },
         "api_14": {
             "name": "TV-天涯资源",
             "api": "https://tyyszy.com/api.php/provide/vod",
             "detail": "https://tyyszy.com"
-        },
-        "api_15": {
-            "name": "TV-如意资源",
-            "api": "https://cj.rycjapi.com/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_16": {
-            "name": "TV-小猫咪资源",
-            "api": "https://zy.xmm.hk/api.php/provide/vod",
-            "detail": "https://zy.xmm.hk"
-        },
-        "api_17": {
-            "name": "TV-新浪点播",
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-            "detail": "https://api.xinlangapi.com"
         },
         "api_18": {
             "name": "TV-无尽资源",
@@ -98,11 +63,6 @@ const CUSTOMER_SITES = {
             "api": "https://api.zuidapi.com/api.php/provide/vod",
             "detail": "https://api.zuidapi.com"
         },
-        "api_26": {
-            "name": "TV-樱花资源",
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-            "detail": ""
-        },
         "api_29": {
             "name": "TV-电影天堂资源",
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -113,20 +73,10 @@ const CUSTOMER_SITES = {
             "api": "https://api.apibdzy.com/api.php/provide/vod",
             "detail": "https://api.apibdzy.com"
         },
-        "api_32": {
-            "name": "TV-神马云",
-            "api": "https://api.1080zyku.com/inc/apijson.php/",
-            "detail": "https://api.1080zyku.com"
-        },
         "api_33": {
             "name": "TV-索尼资源",
             "api": "https://suoniapi.com/api.php/provide/vod",
             "detail": ""
-        },
-        "api_34": {
-            "name": "TV-红牛资源",
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-            "detail": "https://www.hongniuzy2.com"
         },
         "api_37": {
             "name": "TV-豆瓣资源",
@@ -143,21 +93,6 @@ const CUSTOMER_SITES = {
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "detail": ""
         },
-        "api_42": {
-            "name": "TV-金鹰点播",
-            "api": "https://jinyingzy.com/api.php/provide/vod",
-            "detail": "https://jinyingzy.com"
-        },
-        "api_43": {
-            "name": "TV-金鹰资源",
-            "api": "https://jyzyapi.com/api.php/provide/vod",
-            "detail": "https://jyzyapi.com"
-        },
-        "api_44": {
-            "name": "TV-閃電资源",
-            "api": "https://sdzyapi.com/api.php/provide/vod",
-            "detail": "https://sdzyapi.com"
-        },
         "api_45": {
             "name": "TV-非凡资源",
             "api": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -168,31 +103,6 @@ const CUSTOMER_SITES = {
             "api": "https://p2100.net/api.php/provide/vod",
             "detail": "https://p2100.net"
         },
-        "api_47": {
-            "name": "TV-魔爪资源",
-            "api": "https://mozhuazy.com/api.php/provide/vod",
-            "detail": "https://mozhuazy.com"
-        },
-        "api_48": {
-            "name": "TV-魔都动漫",
-            "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-            "detail": "https://caiji.moduapi.cc"
-        },
-        "api_49": {
-            "name": "TV-魔都资源",
-            "api": "https://www.mdzyapi.com/api.php/provide/vod",
-            "detail": "https://www.mdzyapi.com"
-        },
-        "api_50": {
-            "name": "TV-黑木耳",
-            "api": "https://json.heimuer.xyz/api.php/provide/vod",
-            "detail": "https://json.heimuer.xyz"
-        },
-        "api_51": {
-            "name": "TV-黑木耳点播",
-            "api": "https://json02.heimuer.xyz/api.php/provide/vod",
-            "detail": "https://json02.heimuer.xyz"
-        },
         "ffzynew": {
             "api": "https://api.ffzyapi.com/api.php/provide/vod",
             "name": "非凡影视new",
@@ -202,14 +112,6 @@ const CUSTOMER_SITES = {
             "api": "https://jszyapi.com/api.php/provide/vod",
             "name": "极速资源",
             "detail": "https://jszyapi.com"
-        },
-        "mozhua": {
-            "api": "https://mozhuazy.com/api.php/provide/vod",
-            "name": "魔爪资源"
-        },
-        "mdzy": {
-            "api": "https://www.mdzyapi.com/api.php/provide/vod",
-            "name": "魔都资源"
         },
         "kauiboziyuan": {
             "api": "https://gayapi.com/api.php/provide/vod",
@@ -223,29 +125,9 @@ const CUSTOMER_SITES = {
             "api": "https://huawei8.live/api.php/provide/vod",
             "name": "华为吧资源"
         },
-        "taopian": {
-            "api": "https://taopianapi.com/cjapi/sda/vod",
-            "name": "淘片资源"
-        },
         "suonisandian": {
             "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
             "name": "索尼-闪电资源"
-        },
-        "jinyingziyuan": {
-            "api": "https://jyzyapi.com/provide/vod",
-            "name": "金鹰资源采集网"
-        },
-        "jinmaziyuan2": {
-            "api": "https://api.jmzy.com/api.php/provide/vod",
-            "name": "金马资源网"
-        },
-        "dadiziy": {
-            "api": "https://dadiapi.com/api.php/provide/vod",
-            "name": "大地资源网络"
-        },
-        "xiaojiziy": {
-            "api": "https://api.xiaojizy.live/provide/vod",
-            "name": "小鸡资源"
         },
         "xinlangaa": {
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
