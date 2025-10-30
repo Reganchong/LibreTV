@@ -59,26 +59,6 @@ const CUSTOMER_SITES = {
             "api": "https://api.apibdzy.com/api.php/provide/vod",
             "detail": "https://api.apibdzy.com"
         },
-        "api_33": {
-            "name": "TV-索尼资源",
-            "api": "https://suoniapi.com/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_37": {
-            "name": "TV-豆瓣资源",
-            "api": "https://caiji.dbzy.tv/api.php/provide/vod",
-            "detail": "https://caiji.dbzy.tv"
-        },
-        "api_38": {
-            "name": "TV-豆瓣资源",
-            "api": "https://dbzy.tv/api.php/provide/vod",
-            "detail": "https://dbzy.tv"
-        },
-        "api_41": {
-            "name":"TV-量子资源",
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
-            "detail": ""
-        },
         "api_45": {
             "name": "TV-非凡资源",
             "api": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -98,10 +78,6 @@ const CUSTOMER_SITES = {
             "api": "https://jszyapi.com/api.php/provide/vod",
             "name": "极速资源",
             "detail": "https://jszyapi.com"
-        },
-        "liangziziyuan": {
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
-            "name": "量子资源"
         },
 
         "iqiyi": {
